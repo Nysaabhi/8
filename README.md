@@ -1218,7 +1218,7 @@ function showLocatorsOverlay() {
   .locators-grid {
   margin-top: 60px; 
   display: grid; 
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); 
+  grid-template-columns: repeat(auto-fill, minmax(400px, 1fr)); 
   gap: 20px; 
   animation: fadeInUp 0.5s ease-out; 
   padding-bottom: 140px; 
